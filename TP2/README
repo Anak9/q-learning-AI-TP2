@@ -1,0 +1,12 @@
+bibliotecas usadas:
+#include <iostream>
+#include <cstdlib>
+#include <fstream>
+#include <string>
+#include <vector>
+
+Compilação: 
+g++ main.cpp -o qlearning
+
+Exemplo de como rodar:
+./qlearning stochastic 0 3 30000
