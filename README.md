@@ -7,9 +7,9 @@ g++ main.cpp -o qlearning
 
 
 Parâmetros de entrada: 
-Método: standard, positive ou stochastic
-Posição inicial: x y
-Número de passos: (a partir de 1000 para um resultado satisfatório)
+método (standard, positive ou stochastic) 
+inicio (x y) 
+nº passos (a partir de 1000 para um resultado satisfatório)
 
 
 Exemplo de como rodar:
