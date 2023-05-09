@@ -1,4 +1,4 @@
-# q-learning
+# Q-learning
 Trabalho Prático 1 de Introdução à Inteligência Artificial - semestre 2022/2 UFMG
 Implementação de 3 variações do método q-learning.
 
